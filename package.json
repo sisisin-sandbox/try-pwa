@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "sisisin <azsisisin@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "firebase-tools": "^7.2.1"
+  }
 }
